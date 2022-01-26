@@ -13,7 +13,7 @@ public class Applet implements ActionListener
     private JLabel Outputlabel = new JLabel("DAY:");
     private JFrame frame = new JFrame();
 
-    public Applet() 
+    public Applet()
     {
         // submit button
         JButton button = new JButton("Submit");
@@ -37,7 +37,7 @@ public class Applet implements ActionListener
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(720,720);
-        frame.setResizable(true);
+        frame.setResizable(false);
         frame.setTitle("Applet - Date to Day");
         frame.pack();
         frame.setVisible(true);
