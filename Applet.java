@@ -38,7 +38,7 @@ public class Applet implements ActionListener
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(720,720);
         frame.setResizable(false);
-        frame.setTitle("Applet - Date to Day");
+        frame.setTitle("Date to Day");
         frame.pack();
         frame.setVisible(true);
     }

@@ -1,4 +1,4 @@
-Project Name: DatetoDay Java Applet
+Project Name: DatetoDay
 Author: Durru Aravind
 Date: 07.10.2021
-Description: This is a Java Swing GUI based applet mini project. It displays the day for a given date.
+Description: This is a Java based Swing-GUI mini project. It displays the Day for a given Date.
